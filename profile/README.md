@@ -1,8 +1,8 @@
 # Mr.Leaves Server Group (MLSG)
 **MLSG是 Mr.Leaves Electronics and Networking Inc. 旗下的服务器租赁业务。**  
-菜菜云MLSG直购官网：[mlsg.mr-leaves.com](https://mlsg.mr-leaves.com/)
-我们的公司官网：[mr-leaves.com](https://mr-leaves.com/)
-服务器控制后台面板：[panel.mr-leaves.com](https://panel.mr-leaves.com/)
+菜菜云MLSG直购官网：[mlsg.mr-leaves.com](https://mlsg.mr-leaves.com/)  
+我们的公司官网：[mr-leaves.com](https://mr-leaves.com/)  
+服务器控制后台面板：[panel.mr-leaves.com](https://panel.mr-leaves.com/)  
 
 ## 主营业务
 我们的主营业务范围是**游戏服务器租赁，VPS租赁，加拿大范围内的实体服务器销售等**  
